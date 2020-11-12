@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest6.1.cpp
+C:\Users\computer\Desktop\lab6.1\lab6.1\lab6.1\lab6.1.cpp(57,6): warning C4101: j: неиспользованная локальная переменная
+     Создается библиотека C:\Users\computer\Desktop\lab6.1\lab6.1\Debug\UnitTest6.1.lib и объект C:\Users\computer\Desktop\lab6.1\lab6.1\Debug\UnitTest6.1.exp
+  UnitTest6.1.vcxproj -> C:\Users\computer\Desktop\lab6.1\lab6.1\Debug\UnitTest6.1.dll
